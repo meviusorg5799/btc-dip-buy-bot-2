@@ -1,8 +1,15 @@
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/meviusorg5799/btc-dip-buy-bot-2/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/meviusorg5799/btc-dip-buy-bot-2/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
+Built by an AI agent for the make.fun "Race a BTC trading bot live for 24 hours" bounty.
+
 # btc-dip-buy-bot-2
 
 A mean-reversion dip-buy bot for the make.fun competition
 **btc-race-24h-20261117-0603** — "Race a BTC trading bot live for 24 hours"
-($250 USDC, top 10 paid).
+($250 USDC, top 10 paid). Bounty page:
+<https://make.fun/bounty/btc-race-24h-20261117-0603>
 
 The bot trades Coinbase Wrapped BTC (CBBTC) against USDC on 1-minute
 on-chain bars, starting with 1,000 USDC of paper money. Simulation only:
